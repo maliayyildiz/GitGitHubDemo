@@ -3,6 +3,7 @@ public class Ornek {
     //ilk once kodlamamiz bittiyse git dosyasina ekliyoruz
     // git add <filePath> specific dosya
     // git add . ". yapilan butun degisiklikleri ekler"
-    //conflict olustur
-
+     //conflict olustur
+    // ekledik
+    //ekledik 2
 }
