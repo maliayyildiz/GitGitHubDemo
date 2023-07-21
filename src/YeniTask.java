@@ -4,4 +4,7 @@ public class YeniTask {
     //conflict olsuturuldu
 
     //conflict olusutur
+
+    //stash2
+    //stash 3
 }
