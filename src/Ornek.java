@@ -6,5 +6,9 @@ public class Ornek {
      //conflict olustur
     // ekledik
     //ekledik 2
+
+    //yeni conflict olustur
+
     //yeni conflict
+
 }
