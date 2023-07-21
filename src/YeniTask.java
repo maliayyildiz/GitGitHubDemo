@@ -4,5 +4,4 @@ public class YeniTask {
     //conflict olsuturuldu
 
     //conflict olusutur
-
 }
