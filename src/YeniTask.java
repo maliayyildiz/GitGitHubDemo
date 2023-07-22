@@ -5,5 +5,5 @@ public class YeniTask {
 
     //conflict olusutur
 
-
+    //.lkjdfs
 }
