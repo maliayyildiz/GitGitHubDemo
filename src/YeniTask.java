@@ -5,6 +5,5 @@ public class YeniTask {
 
     //conflict olusutur
 
-    //stash2
-    //stash 3
+
 }
